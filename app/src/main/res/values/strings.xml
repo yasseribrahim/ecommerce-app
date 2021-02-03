@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+
+    <string name="str_loading">Loading...</string>
+    <string name="str_category">Categories</string>
+    <string name="str_search">Search</string>
+    <string name="str_cart">Cart</string>
+    <string name="str_orders">Orders</string>
+
+    <string name="str_scan">Scan</string>
+    <string name="str_forget_password"><u>Forget Pass?</u></string>
+    <string name="str_checkout">Checkout</string>
+    <string name="dummy_content">Welcome</string>
+</resources>
