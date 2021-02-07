@@ -9,7 +9,7 @@
 
     <include layout="@layout/layout_tool_bar" />
 
-    <com.ecommerce.app.custom.CustomViewPager
+    <com.ecommerce.store.app.custom.CustomViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
